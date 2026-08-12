@@ -1,0 +1,7 @@
+id=miui_cleaner_config
+name=MIUI数据清理(配置版)
+version=v1.0
+versionCode=1
+author=定制模块
+description=开机自动及手动一键清理指定应用数据。包名列表请编辑 /data/adb/modules/miui_cleaner_config/packages.conf，一行一个，支持#注释。
+minMagisk=20.4actionButtonLabel=🧹 清理应用数据
