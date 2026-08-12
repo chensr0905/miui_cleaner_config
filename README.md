@@ -1,0 +1,2 @@
+# miui_cleaner_config
+miui云控软件开机自清理模块，可以修改所需清理软件，在magisk界面点击操作可以手动清理
